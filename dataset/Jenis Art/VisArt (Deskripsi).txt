@@ -1,0 +1,7 @@
+Nama Anggota Kelompok : 
+1. Nurhasanah (21102005)
+2. Novi Ramadani (21102033)
+
+Pembuatan dataset "VisArt" menjadi landasan penting dalam menggali keindahan seni lukis dan menghadirkannya dalam bentuk yang lebih aksesibel. VisArt, sebuah inisiatif terobosan dalam dunia seni, muncul dengan tujuan memperkaya pemahaman dan apresiasi terhadap seni lukis. Aliran seni lukid yang beragam, seperti Abstract, Fauvism, Fiber Art, Japanese Art, Pop Art, Romanticism, Symbolism, Realism, Expressionism, dan Primitivism, diwakili secara khusus dalam dataset ini. 
+VisArt tidak hanya memungkinkan pengidentifikasian jenis aliran seni pada suatu lukisan, tetapi juga membuka peluang untuk pengembangan teknologi seperti Image Scanner, Similar image dan Art Gallery yang dapat memperkaya pengalaman pengguna. Manfaatnya meluas dari peningkatan apresiasi seni hingga pendidikan budaya yang inklusif, menjembatani kesenjangan pengetahuan, dan memberdayakan individu untuk menjelajahi dunia seni secara lebih dalam. Dengan VisArt, seni bukan lagi milik segelintir orang, melainkan sebuah cerita yang dapat dijangkau oleh semua kalangan, mendorong pemahaman yang lebih mendalam dan pengalaman seni yang lebih inklusif.
+
