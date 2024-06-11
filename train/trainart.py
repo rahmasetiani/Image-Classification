@@ -119,8 +119,8 @@ class ArtClassifier:
         print(f'Total Test Sample: {total_test_samples}')
         print(f'Total Test Correct: {total_correct_predictions}')
         print(f'Total Test Accuracy: {accuracy * 100:.2f}%')
-        conf_matrix = confusion_matrix(all_labels, all_preds)
-        class_names = ['Doberman', 'Maltippo']
+        conf_matrix = confusion_matrix(all_labels, all_preds)   
+        class_names = ['Pop Art', 'Primitivism']
         sns.heatmap(conf_matrix, annot=True, fmt='d', cmap='Blues', xticklabels=class_names, yticklabels=class_names)
         plt.xlabel('Predicted Labels')
         plt.ylabel('True Labels')
