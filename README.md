@@ -1,5 +1,3 @@
-Berikut adalah contoh README untuk proyek Anda:
-
 # CNNFormer: Transformer-based CNN for Image Classification
 
 ## Introduction
