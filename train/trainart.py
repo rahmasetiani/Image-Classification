@@ -128,7 +128,7 @@ class ArtClassifier:
         plt.show()
 
     def compute_roc_auc(self):
-        self.model.eval()
+        self.model.eval() 
         y_true = []
         y_scores = []
         with torch.no_grad():
